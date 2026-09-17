@@ -20,7 +20,7 @@ type Game = {
 };
 
 type Report = {
-  generated_at?: string;
+  generated_at?: string | null;
   total_matches_flagged?: number;
   total_fixtures_checked?: number;
   games?: Game[];
