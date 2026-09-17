@@ -29,7 +29,7 @@ LINES = {
 # Preencha com os campeonatos que você quer acompanhar.
 LEAGUES = {
      "Serie A": 71,
-     "Serie B": 72 
+     "Serie B": 72,
      "Premier League": 39,
      "La Liga": 140,
      "CONMEBOL Libertadores": 13,
