@@ -3,7 +3,15 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Análise Apostas 365",
-  description: "Análises estatísticas de partidas de futebol.",
+  description:
+    "Análise estatística de partidas de futebol.",
+  keywords: [
+    "futebol",
+    "estatísticas",
+    "análise esportiva",
+    "apostas",
+    "jogos",
+  ],
 };
 
 export default function RootLayout({
